@@ -8,4 +8,4 @@ Changed Dev to nav.
 Added a hover selector to any anchor tag.
 Consolidated any css that could be.
 
-Link to Website - file:///Users/SamCott/bootcamp/Challenge-1/index.html#social-media-marketing
+Link to Website - https://samc995.github.io/Challenge-1/
