@@ -46,7 +46,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* added hover selector */
 a:hover {
     color:#d9dcd6;
 }
